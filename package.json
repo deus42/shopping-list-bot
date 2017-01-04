@@ -1,0 +1,21 @@
+{
+  "name": "shoppint-list-bot",
+  "version": "1.0.0",
+  "description": "Telegram shoppinng list bot",
+  "main": "shopping.js",
+  "homepage": "https://github.com/deus42/shopping-list-bot#readme",
+  "dependencies": {
+    "telegraf": "^3.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deus42/shopping-list-bot.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"prepush": "npm test"
+  },
+  "author": "Alexey Gapchenko <deusson@gmail.com>",
+  "license": "GPL-3.0"
+}
