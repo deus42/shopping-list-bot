@@ -13,8 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-	"prepush": "npm test"
+    "prepush": "npm test"
   },
   "author": "Alexey Gapchenko <deusson@gmail.com>",
   "license": "GPL-3.0"
