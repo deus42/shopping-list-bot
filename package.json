@@ -1,5 +1,5 @@
 {
-  "name": "shoppint-list-bot",
+  "name": "shopping-list-bot",
   "version": "1.0.0",
   "description": "Telegram shoppinng list bot",
   "main": "shopping.js",
